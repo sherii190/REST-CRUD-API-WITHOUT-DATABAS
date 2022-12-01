@@ -40,7 +40,7 @@ npm start
 
 -   **[Express - Node.js web application framework](https://exporessjs.com/)**
 -   **[Node JS](https://nodejs.org/)**
--   **[Visual Studio Code]**
+-   **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ## Skapad av
 - Shehryar Hassan
