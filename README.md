@@ -28,7 +28,7 @@ npm i nodemon
 ```
 
 ```
-npm i uuvid4 
+npm i uuid4 
 ```
 
 * Kör programmet:*
